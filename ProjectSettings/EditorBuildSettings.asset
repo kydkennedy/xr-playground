@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/_Assets/Scenes/VRScene.unity
+    guid: 84bb9bfb5de39466f900efee17e6a9f7
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ccfd30ebd90a34062a96e66cfaa0c212, type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 1d72083e7f1c0498dac838cd27b0e3bb, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 5bfc2d0170fc9496c89fdeee5509080f, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: e00012f020a8846afb24a5e34e789454, type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 79ef77e074c4f4a3f80a4784acc1bb96, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b61787a54f3544de7948fe20c26425ec, type: 2}
